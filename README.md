@@ -1,4 +1,4 @@
-https://github.com/MakinanaYozze/blob/main/README.md#hi-im-MakinanaYozze
+Hi- I'm-MakinanaYozze!
 Python programmer- Software Development- Azure Cloud Fundamentals
 
 <h2>👨‍💻 Python Developer Projects:</h2>
