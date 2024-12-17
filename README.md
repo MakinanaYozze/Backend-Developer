@@ -1,8 +1,5 @@
-<h1>Hi, I'm MakinanaYozze!
-https://github.com/MakinanaYozze/blob/main/README.md#hi-
+Hi! I'm MakinanaYozze!
 Python programmer, Software Development, Azure Cloud Fundamentals
-<br/><a href="https://github.com/MakinanaYozze">Programmer</a>, <a href="https://www.linkedin.com/in/yonelazanesizwemakinana/">Python programmer</a>,
-
 <h2>👨‍💻 Python Developer Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
