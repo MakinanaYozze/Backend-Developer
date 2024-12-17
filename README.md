@@ -1,4 +1,4 @@
-Hi- I'm-MakinanaYozze!
+Hi, I'm MakinanaYozze!
 
 Python programmer- Software Development- Azure Cloud Fundamentals
 
