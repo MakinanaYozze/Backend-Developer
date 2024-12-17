@@ -1,5 +1,7 @@
 Hi! I'm MakinanaYozze!
+
 Python programmer, Software Development, Azure Cloud Fundamentals
+
 <h2>👨‍💻 Python Developer Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
