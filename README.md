@@ -1,6 +1,6 @@
 Hi, I'm MakinanaYozze!
 
-Python programmer, Software Development, Azure Cloud Fundamentals
+Python programmer, Back-End Developer, Network Security (Cisco)
 
 <h2>👨‍💻 Python Developer Projects:</h2>
 
