@@ -1,6 +1,7 @@
 Hi, I'm MakinanaYozze!
 
 Python programmer, Back-End Developer, Network Security (Cisco)
+Highly motivated Junior Python Developer with a passion for developing innovative solutions. Skilled in developing and maintaining Python-based web applications, optimizing database queries, and collaborating with cross-functional teams to improve application functionality. Proven track record in increasing user engagement, reducing development time, and improving code quality.
 
 <h2> 🤳 Connect with me:</h2>
 
