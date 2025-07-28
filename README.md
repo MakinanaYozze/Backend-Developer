@@ -1,4 +1,5 @@
 Hi, I'm MakinanaYozze!
+
 Highly motivated Junior Python programmer, Back-End Developer, with a passion for developing innovative solutions. Skilled in developing and maintaining Python-based web applications, optimizing database queries, and collaborating with cross-functional teams to improve application functionality. Proven track record in increasing user engagement, reducing development time, and improving code quality. I regard myself as a problem-solver than a coder because I also check other people's codes and debug them after thorough analysis. I love being hands-on programming because it gives me an opportunity to practice and teach my hands to be flexible on the PC, The Tech guru (Tech with Tim) taught me this advice and it has been working very well for me since 2023.  
 
 <h2> 🤳 Connect with me:</h2>
