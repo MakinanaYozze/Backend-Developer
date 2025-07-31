@@ -2,6 +2,8 @@ Hi, I'm MakinanaYozze!
 
 Highly motivated Junior Python programmer, Back-End Developer, with a passion for developing innovative solutions. Skilled in developing and maintaining Python-based web applications, optimizing database queries, and collaborating with cross-functional teams to improve application functionality. Proven track record in increasing user engagement, reducing development time, and improving code quality. I regard myself as a problem-solver than a coder because I also check other people's codes and debug them after thorough analysis. I love being hands-on programming because it gives me an opportunity to practice and teach my hands to be flexible on the PC, The Tech guru (Tech with Tim) taught me this advice and it has been working very well for me since 2023.  
 
+For me, coding has transitioned from being just a skill to being a passion. At first, it was tough. I struggled a lot, but I kept going because I loved the feeling of building something from stratch. The passion kept me spending hours banging my head against the keyboard. In South Africa, the situation of landing a job in general is a complex issue on it's own, but I am not aware how complex it is in the Tech industry. Yes, it's easy to get caught up in the stress of landing jobs or navigating the ups and downs of becoming a software engineer, Web Developer, Cybersecurity expert, Data analyst/engineer/scientist, Cloud engineer etc. But at the end of the day, coding is about discovery, creativity, and joy. I hope you find little inspiration in your journey!!!.  
+
 <h2> 🤳 Connect with me:</h2>
 
 [facebook]: https://web.facebook.com/MakinanaZanesizweYozze/
